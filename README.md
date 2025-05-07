@@ -73,6 +73,5 @@
 
 <!-- Contact Information -->
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/muhammad-souare-3baaa7352)
-
+- [LinkedIn](https://www.linkedin.com/in/muhammad-souare-3baaa7352/)
 - [Email](mailto:samassidu78@gmail.com)
