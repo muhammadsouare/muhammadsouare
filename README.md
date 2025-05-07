@@ -1,11 +1,6 @@
 ## Hi, My name is Muhammad Souare 👋
 
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/yourusername" alt="Your Name" width="100" />
-  <br />
-  <strong>Your Name</strong>
-  <br />
+ 
   IT Support Specialist | Networking Enthusiast
 </h1>
 
