@@ -60,10 +60,6 @@
 - Led peer-led study sessions and technical discussions focused on CompTIA certifications (A+, Network+, Security+).
 - Networked with local professionals and guest speakers to stay informed on industry trends and job opportunities.
 
-<!-- Certifications -->
-## 📜 Certifications
-- **CompTIA Network+** *(In Progress, Expected April 2025)*
-
 <!-- Professional Interests -->
 ## 🌐 Professional Interests
 - Cloud Engineering
