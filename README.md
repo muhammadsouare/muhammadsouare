@@ -39,7 +39,7 @@
 ## 🎓 Education
 **Associate of Applied Science in Networking**  
 *Athens Technical College, Athens, GA*  
-*Expected Graduation: May 2025*
+*Graduated: May 2025*
 
 <!-- Professional Experience -->
 ## 💼 Professional Experience
